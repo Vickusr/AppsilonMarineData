@@ -2,7 +2,7 @@
 My code submission for the Appsilon Marine Data
 
 My submission is hosted here:
-[shinyapps.io]https://vickus-botha.shinyapps.io/appsilonmarinedata/
+[shinyapps.io](https://vickus-botha.shinyapps.io/appsilonmarinedata/)
 
 There is also a different solution that works with `SQLite`. 
 Hosted here:
