@@ -2,12 +2,14 @@
 My code submission for the Appsilon Marine Data
 
 My submission is hosted here:
-[shinyapps.io](https://vickus-botha.shinyapps.io/appsilonmarinedata/)
+[shinyapps.io](https://vickus-botha.shinyapps.io/AppsilonMarineData/)
 
 There is also a different solution that works with `SQLite`. 
+
 Hosted here:
 Github: [Github](https://github.com/Vickusr/AppsilonMarineDataDB)
-shinyapps.io: [shinyapps.io](https://vickus-botha.shinyapps.io/appsilonmarinedatadb/)
+
+shinyapps.io: [shinyapps.io](https://vickus-botha.shinyapps.io/AppsilonMarineDataDB/)
 
 For more context on this see the **Performance Testing** heading
 
@@ -81,7 +83,7 @@ I noticed there were rare instance where shinyapps.io would run into memory cons
 So I did a bit more with with `profvis` allowing me to optimise the app for memory.
 
 However this prompted me to look into the database solution, even if it was a `SQLite` solution.
-This solution is also given [here](https://github.com/Vickusr/AppsilonMarineDataDB). 
+This solution is also given [here](https://vickus-botha.shinyapps.io/AppsilonMarineDataDB/). 
 The implementation I would say is much better.
 New tests were written for the DB implementation too.
 There are thus two solution that work the same way.
